@@ -1,14 +1,14 @@
 {
-  "seoTitle": "Contact Us — Enquiry & Quotation | Jugnu Roshni Pvt. Ltd.",
-  "seoDescription": "Contact Jugnu Roshni Pvt. Ltd., Rajinder Nagar Industrial Area, Ghaziabad. Call, WhatsApp or send an enquiry for turned components, sheet metal parts, press tools and fabrication.",
-  "bannerImage": "/images/hero/hero-press-tools.jpg",
   "heading": "Contact Us",
-  "intro": "Send us your requirement — a drawing, sample photo or specification — and we will get back to you.",
-  "formHeading": "Send an enquiry",
-  "formText": "Fields marked * are required. After you submit, WhatsApp opens with your enquiry ready to send.",
+  "locationsHeading": "Visit our works & office",
   "successMessage": "Thank you! Your enquiry has been recorded. Our team will contact you shortly.",
   "otherOption": "Other / General enquiry",
   "sideHeading": "Talk to us directly",
   "locationsEyebrow": "Locations",
-  "locationsHeading": "Visit our works & office"
+  "intro": "Send us your requirement — a drawing, sample photo or specification — and we will get back to you.",
+  "bannerImage": "/uploads/designer-3-.png",
+  "formText": "Fields marked * are required. After you submit, WhatsApp opens with your enquiry ready to send.",
+  "seoTitle": "Contact Us — Enquiry & Quotation | Jugnu Roshni Pvt. Ltd.",
+  "formHeading": "Send an enquiry",
+  "seoDescription": "Contact Jugnu Roshni Pvt. Ltd., Rajinder Nagar Industrial Area, Ghaziabad. Call, WhatsApp or send an enquiry for turned components, sheet metal parts, press tools and fabrication."
 }
