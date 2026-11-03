@@ -457,8 +457,6 @@ a.pcard-cat:hover { text-decoration: underline; }
 .loader-tag .tw:nth-child(n+3) { color: var(--blue); }
 @keyframes twIn { to { opacity: 1; transform: none; filter: none; } }
 .mq-logo { gap: 44px; }
-.mq-logo img { height: 34px; width: auto; max-width: 150px; object-fit: contain; filter: grayscale(1); opacity: .75; transition: filter .3s, opacity .3s; }
-.mq-logo:hover img { filter: none; opacity: 1; }
 
 /* ---------- Inner page hero (light) ---------- */
 .page-hero { position: relative; overflow: hidden; background: var(--surface); padding: clamp(64px, 9vw, 120px) 0 clamp(56px, 7vw, 90px); isolation: isolate; border-bottom: 1px solid var(--line); }
@@ -852,9 +850,31 @@ a.pcard-cat:hover { text-decoration: underline; }
   .hero::after { display: none; }
 }
 @media (prefers-reduced-motion: reduce) {
-  .hero::before, .hero::after, .cta-strip::after, .page-hero::after, .pd-blob, .intro-badge { animation: none !important; }
-  .hero-title .line:nth-child(2) > span { animation: none !important; transform: none; }
+  .hero::before, .hero::after, .cta-strip::after, .page-hero::after, .pd-blob { animation: none !important; }
 }
+
+
+/* ---------- Home hero: faster slideshow + animated tagline headline ---------- */
+.slide { transition: opacity 1s var(--ease); }
+.slide.active img { animation: kenburns calc(var(--slide-ms, 3000ms) + 1200ms) ease-out forwards; }
+.slide.leaving { opacity: 0; }
+.slide.active { z-index: 1; }
+.hero-title .line > span { transform: none; animation: none; }
+.hero-title .line:nth-child(2) > span { animation: none; background: none; color: inherit; }
+.hero-title .hw { display: inline-block; opacity: 0; transform: translateY(55%) rotateX(-55deg); transform-origin: 50% 100%; filter: blur(8px); animation: hwIn .9s var(--ease) forwards; animation-delay: calc(var(--wi) * 140ms + 350ms); }
+.hero-title .line:nth-child(2) .hw { background: linear-gradient(90deg, #2c55c4, #0fa3a3, #e8950f, #2c55c4); background-size: 300% 100%; -webkit-background-clip: text; background-clip: text; color: transparent; animation: hwIn .9s var(--ease) forwards, gradShift 7s linear infinite; animation-delay: calc(var(--wi) * 140ms + 350ms), 1.4s; }
+@keyframes hwIn { to { opacity: 1; transform: none; filter: none; } }
+.hero-title { perspective: 800px; position: relative; }
+.hero-title::after { content: ""; position: absolute; left: 0; bottom: -10px; height: 4px; width: 120px; border-radius: 4px; background: var(--grad); transform: scaleX(0); transform-origin: left; animation: ruleIn 1s var(--ease) 1.5s forwards; }
+@keyframes ruleIn { to { transform: scaleX(1); } }
+
+/* ---------- Customer logos: original colours, readable, grow on hover ---------- */
+.marquee ul { padding-block: 10px; align-items: center; }
+.marquee li.mq-logo { gap: 44px; }
+.mq-chip { display: grid; place-items: center; height: 64px; min-width: 120px; padding: 8px 18px; background: #fff; border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow-sm); transition: transform .35s var(--ease), box-shadow .35s var(--ease); }
+.mq-chip img { height: 44px; width: auto; max-width: 170px; object-fit: contain; filter: none; opacity: 1; }
+.mq-logo:hover .mq-chip { transform: scale(1.14); box-shadow: var(--shadow); }
+@media (max-width: 640px) { .mq-chip { height: 54px; padding: 6px 14px; } .mq-chip img { height: 36px; max-width: 140px; } }
 
 /* ---------- Large & very large screens ----------
    The whole layout scales up with the screen (text, buttons, spacing, images),
@@ -870,11 +890,7 @@ a.pcard-cat:hover { text-decoration: underline; }
 @media (min-width: 5000px) { html { zoom: 2.8; } }
 
 @media (prefers-reduced-motion: reduce) {
-  *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; scroll-behavior: auto !important; }
-  .js .reveal, .js .reveal-img > * { opacity: 1; transform: none; clip-path: none; }
-  .hero-title .line > span, .split .w > span { transform: none; }
-  .tw { opacity: 1; transform: none; filter: none; }
-  .marquee ul { animation: none; }
+  html { scroll-behavior: auto; }
   .spark { display: none; }
 }
 @media print { .topbar, .site-header, .float-actions, .to-top, .loader, .cta-strip, .mnav { display: none !important; } }

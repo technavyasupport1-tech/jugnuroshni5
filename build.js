@@ -273,17 +273,18 @@ function homePage() {
   const H = HOME.hero;
   const slides = H.slides.map((sl, i) => `<figure class="slide" data-i="${i}"><img src="${esc(sl.image)}"${srcset(sl.image)} alt="${esc(sl.alt)}" ${i === 0 ? 'fetchpriority="high"' : 'loading="lazy"'} decoding="async"><figcaption>${esc(sl.label || '')}</figcaption></figure>`).join('');
   const dots = H.slides.map((sl, i) => `<button role="tab" aria-label="Show slide ${i + 1}: ${esc(sl.label || '')}" data-go="${i}"><span></span></button>`).join('');
-  const headingLines = H.heading.split('\n').map((l) => `<span class="line"><span>${esc(l)}</span></span>`).join('');
+  let wi = 0;
+  const headingLines = H.heading.split('\n').map((l) => `<span class="line"><span>${l.trim().split(/\s+/).map((w) => `<span class="hw" style="--wi:${wi++}">${esc(w)}</span>`).join(' ')}</span></span>`).join('');
   const stats = HOME.stats.map((st) => `<div class="hstat"><strong><span data-count="${Number(st.value)}"${st.plain ? ' data-plain' : ''}>${st.plain ? esc(st.value) : '0'}</span>${esc((st.suffix || '').trim())}</strong><span>${esc(st.label)}</span></div>`).join('<i class="hstat-div" aria-hidden="true"></i>');
   const trust = (HOME.trust || []).map((t, i) => `<li class="reveal" style="--d:${i * 70}ms"><span class="trust-ic">${TRUST_ICONS[t.icon] || ICONS.check}</span><span><strong>${esc(t.title)}</strong><small>${esc(t.text)}</small></span></li>`).join('');
   const why = HOME.why.map((w, i) => `<li class="reveal" style="--d:${i * 80}ms"><span class="why-ic">${ICONS.check}</span><h3>${esc(w.title)}</h3><p>${esc(w.text)}</p></li>`).join('');
   const proc = HOME.process.map((p, i) => `<li class="reveal" style="--d:${i * 90}ms"><span class="step-n">${String(i + 1).padStart(2, '0')}</span><h3>${esc(p.title)}</h3><p>${esc(p.text)}</p></li>`).join('');
   const inds = HOME.industries.map((x) => `<li>${esc(x)}</li>`).join('');
-  const marquee = CUST.customers.map((c) => c.logo ? `<li class="mq-logo"><img src="${esc(c.logo)}" alt="${esc(c.name)}" loading="lazy"></li>` : `<li>${esc(c.name)}</li>`).join('');
+  const marquee = CUST.customers.map((c) => c.logo ? `<li class="mq-logo"><span class="mq-chip"><img src="${esc(c.logo)}" alt="${esc(c.name)}" loading="lazy"></span></li>` : `<li>${esc(c.name)}</li>`).join('');
   const machinesTop = INFRA.machines.slice(0, 6).map((m) => `<li><b>${esc(m.qty)}</b><span>${esc(m.name)}</span></li>`).join('');
 
   const body = `
-<section class="hero" aria-roledescription="carousel" aria-label="Highlights">
+<section class="hero" aria-roledescription="carousel" aria-label="Highlights" data-slide-seconds="${esc(T(H.slideSeconds, 3))}">
   <div class="hero-slides" data-parallax="0.25">${slides}</div>
   <div class="hero-shade" aria-hidden="true"></div>
   <div class="spark-field" aria-hidden="true"></div>

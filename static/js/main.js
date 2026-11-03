@@ -43,7 +43,7 @@
   /* ---------- Hero slider (random start on every fresh visit) ---------- */
   var slides = $$('.hero .slide');
   if (slides.length) {
-    var dots = $$('.hero-dots button'), label = $('.hero-label'), DUR = 7000, timer = null, cur = -1;
+    var heroEl = $('.hero'), dots = $$('.hero-dots button'), label = $('.hero-label'), DUR = Math.max(2000, (parseFloat(heroEl && heroEl.getAttribute('data-slide-seconds')) || 3) * 1000), timer = null, cur = -1;
     root.style.setProperty('--slide-ms', DUR + 'ms');
     var last = parseInt(store.get('juro-hero') || '-1', 10), start;
     do { start = Math.floor(Math.random() * slides.length); } while (slides.length > 1 && start === last);
@@ -60,7 +60,7 @@
       cur = i;
       var next = slides[(i + 1) % slides.length]; var ni = next && $('img', next); if (ni) ni.loading = 'eager';
     };
-    var play = function () { clearInterval(timer); if (!reduce && slides.length > 1) timer = setInterval(function () { show(cur + 1); }, DUR); };
+    var play = function () { clearInterval(timer); if (slides.length > 1) timer = setInterval(function () { show(cur + 1); }, DUR); };
     dots.forEach(function (b, k) { b.addEventListener('click', function () { show(k); play(); }); });
     d.addEventListener('visibilitychange', function () { if (d.hidden) clearInterval(timer); else play(); });
     show(start); play();
