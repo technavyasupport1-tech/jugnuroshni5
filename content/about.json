@@ -1,17 +1,22 @@
 {
-  "seoTitle": "About Us — Jugnu Roshni Pvt. Ltd. (JURO), Ghaziabad",
-  "seoDescription": "Established in 2023 in Rajinder Nagar Industrial Area, Ghaziabad, Jugnu Roshni Pvt. Ltd. manufactures turned, sheet metal, press tool and elevator components.",
-  "bannerImage": "/images/hero/hero-precision.jpg",
+  "visionEyebrow": "Our vision",
+  "infraTeaserHeading": "Our works & machines",
   "heading": "About JURO",
-  "intro": "Jugnu Roshni Pvt. Ltd. — Shaping Strength, Delivering Precision.",
-  "story": "Established in 2023 at the Rajinder Nagar Industrial Area, Ghaziabad, Jugnu Roshni Pvt. Ltd. is engaged in manufacturing and supplying a wide variety of industrial components. Our range includes turned components for the switchgear and automobile industries, sheet metal components, press tools, and elevator components and accessories. We also offer industrial fabrication services to customers across the country. The company is led by promoters with more than 10 years of experience in component manufacturing.\n\nOur products are made by diligent professionals using quality raw material obtained from established vendors. Customers value our components for their durable finish, precision engineering, corrosion resistance and dependable performance — and we provide customised solutions to the technical specifications shared with us.",
-  "storyImage": "/images/products/turned-components-1.jpg",
+  "teamHeading": "Our team",
+  "storyImage": "/uploads/fabrication-ya-elevator-components-page.png",
+  "vision": "To achieve standards in quality, cost, delivery, environmental control, production efficiency and customer satisfaction.",
   "leader": {
     "name": "Mr. Manish Kumar",
     "role": "Mentor",
     "text": "Under the guidance of our mentor, Mr. Manish Kumar, the company has built a reputation for dependable quality. His leadership motivates our team to deliver their best on every job."
   },
-  "vision": "To achieve standards in quality, cost, delivery, environmental control, production efficiency and customer satisfaction.",
+  "teamText": "Our organisation is supported by qualified and competent people who understand their work areas well. Their commitment allows us to handle both specific and bulk requirements, and regular training sessions help them keep improving their skills.",
+  "intro": "Jugnu Roshni Pvt. Ltd. — Shaping Strength, Delivering Precision.",
+  "teamEyebrow": "People",
+  "infraTeaserText": "Traub automats, power presses, drilling, milling, grinding, welding and gas cutting machines, with every lot checked before dispatch.",
+  "storyHeading": "Industrial components, made with care in Ghaziabad",
+  "bannerImage": "/uploads/about.png",
+  "infraTeaserButton": "View infrastructure & quality",
   "factSheet": [
     {
       "label": "Year of establishment",
@@ -38,8 +43,10 @@
       "value": "1,200 sq ft"
     }
   ],
-  "teamHeading": "Our team",
-  "teamText": "Our organisation is supported by qualified and competent people who understand their work areas well. Their commitment allows us to handle both specific and bulk requirements, and regular training sessions help them keep improving their skills.",
+  "storyEyebrow": "Our story",
+  "story": "Established in 2023 at the Rajinder Nagar Industrial Area, Ghaziabad, Jugnu Roshni Pvt. Ltd. is engaged in manufacturing and supplying a wide variety of industrial components. Our range includes turned components for the switchgear and automobile industries, sheet metal components, press tools, and elevator components and accessories. We also offer industrial fabrication services to customers across the country. The company is led by promoters with more than 10 years of experience in component manufacturing.\n\nOur products are made by diligent professionals using quality raw material obtained from established vendors. Customers value our components for their durable finish, precision engineering, corrosion resistance and dependable performance — and we provide customised solutions to the technical specifications shared with us.",
+  "factHeading": "Company at a glance",
+  "seoTitle": "About Us — Jugnu Roshni Pvt. Ltd. (JURO), Ghaziabad",
   "team": [
     "Mechanical engineers",
     "Technicians",
@@ -50,13 +57,6 @@
     "Packaging professionals",
     "Skilled & semi-skilled workers"
   ],
-  "storyEyebrow": "Our story",
-  "storyHeading": "Industrial components, made with care in Ghaziabad",
-  "visionEyebrow": "Our vision",
   "factEyebrow": "Fact sheet",
-  "factHeading": "Company at a glance",
-  "teamEyebrow": "People",
-  "infraTeaserHeading": "Our works & machines",
-  "infraTeaserText": "Traub automats, power presses, drilling, milling, grinding, welding and gas cutting machines, with every lot checked before dispatch.",
-  "infraTeaserButton": "View infrastructure & quality"
+  "seoDescription": "Established in 2023 in Rajinder Nagar Industrial Area, Ghaziabad, Jugnu Roshni Pvt. Ltd. manufactures turned, sheet metal, press tool and elevator components."
 }
