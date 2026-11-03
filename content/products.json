@@ -1,0 +1,793 @@
+{
+  "seoTitle": "Products — Turned Components, Sheet Metal Parts, Press Tools | JURO",
+  "seoDescription": "JURO products: LED bulb housings, concealed and spot light housings, panel clips, extension board housings, turned components, sheet metal parts, press tools and fabrication — Jugnu Roshni Pvt. Ltd., Ghaziabad.",
+  "bannerImage": "/images/products/lighting/led-bulb-housing-range.jpg",
+  "heading": "Our Products",
+  "intro": "Housings and components for the lighting and electrical industries, turned components, sheet metal parts, press tools and fabrication — made to your drawings.",
+  "gridHeading": "Product range",
+  "gridText": "Filter by category, or send us your drawing for a part that is not listed here.",
+  "products": [
+    {
+      "name": "LED Bulb Housing — A67 mm",
+      "slug": "led-bulb-housing-a67-mm",
+      "category": "lighting-housings",
+      "featured": true,
+      "image": "/images/products/lighting/led-bulb-housing-a67.jpg",
+      "gallery": [
+        "/images/products/lighting/led-bulb-housing-a67.jpg",
+        "/images/products/lighting/part-a80-housing.jpg",
+        "/images/products/lighting/part-a80-diffuser.jpg"
+      ],
+      "description": "Two-part LED bulb housing — body and diffuser — 67 mm diameter, 130 mm height.",
+      "overview": "A two-part moulded LED bulb housing made up of the body and the diffuser. The body is moulded in glass-filled PBT for strength and heat resistance, and the diffuser in PC for even light spread. Supplied as a blank moulded housing, ready for the customer's LED module and driver.",
+      "specs": [
+        {
+          "label": "Model",
+          "value": "ACDC A67MM"
+        },
+        {
+          "label": "Parts",
+          "value": "2 (housing + diffuser)"
+        },
+        {
+          "label": "Outer diameter",
+          "value": "67.00 mm"
+        },
+        {
+          "label": "Height",
+          "value": "130.00 mm (approx.)"
+        },
+        {
+          "label": "Housing material",
+          "value": "PBT 20% GF"
+        },
+        {
+          "label": "Diffuser material",
+          "value": "PC"
+        },
+        {
+          "label": "Finish",
+          "value": "White"
+        },
+        {
+          "label": "Type",
+          "value": "Moulded housing (blank)"
+        },
+        {
+          "label": "Part weight",
+          "value": "34.00 g (approx.)"
+        }
+      ],
+      "parts": [
+        "Housing body",
+        "Diffuser"
+      ],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "LED Bulb Housing Range — A Series",
+      "slug": "led-bulb-housing-range-a-series",
+      "category": "lighting-housings",
+      "featured": true,
+      "image": "/images/products/lighting/led-bulb-housing-range.jpg",
+      "gallery": [
+        "/images/products/lighting/led-bulb-housing-range.jpg",
+        "/images/products/lighting/part-a80-housing.jpg",
+        "/images/products/lighting/part-a80-cup.jpg",
+        "/images/products/lighting/part-a80-diffuser.jpg"
+      ],
+      "description": "Housings, diffusers, cups and plates for A-55 to A-95 mm LED bulbs.",
+      "overview": "A complete range of LED bulb housing parts in A-series sizes from 55 mm to 95 mm, including HB and LB variants. Each size is available as a set of housing, diffuser, cup and, where required, plate. Every part is checked for outer diameter, inner diameter, height, neck diameter and weight using digital vernier calipers and weighing scales.",
+      "specs": [
+        {
+          "label": "Sizes",
+          "value": "A-55, A-57, A-60, A-65, A-70, A-80, A-95 mm"
+        },
+        {
+          "label": "Variants",
+          "value": "HB and LB types (size-wise)"
+        },
+        {
+          "label": "Parts per size",
+          "value": "Housing, diffuser, cup, plate"
+        },
+        {
+          "label": "Example — A-80 housing OD",
+          "value": "66.04 ± 0.10 mm"
+        },
+        {
+          "label": "Example — A-80 housing height",
+          "value": "72.0 ± 0.15 mm"
+        },
+        {
+          "label": "Example — A-80 neck diameter",
+          "value": "25.20 ± 0.10 mm"
+        },
+        {
+          "label": "Inspection",
+          "value": "Digital vernier caliper, weighing scale, micrometer"
+        }
+      ],
+      "parts": [
+        "A-55 HB housing / diffuser / cup",
+        "A-57 LB housing / diffuser / cup / plate",
+        "A-60 housing / diffuser / cup (P4)",
+        "A-65 HB & LB housing / diffuser / cup / plate",
+        "A-70 housing / diffuser / cup",
+        "A-80 housing / diffuser / cup",
+        "A-95 housing / diffuser / cup"
+      ],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "High-Wattage Bulb Housing — H Series",
+      "slug": "high-wattage-bulb-housing-h-series",
+      "category": "lighting-housings",
+      "featured": false,
+      "image": "/images/products/lighting/high-wattage-bulb-housing.jpg",
+      "gallery": [
+        "/images/products/lighting/high-wattage-bulb-housing.jpg",
+        "/images/products/lighting/part-h100-housing.jpg",
+        "/images/products/lighting/part-h120-diffuser.jpg",
+        "/images/products/lighting/part-h140-cup.jpg"
+      ],
+      "description": "Housings, diffusers and cups for H-80 to H-140 mm high-wattage LED bulbs.",
+      "overview": "Larger housing sets for high-wattage LED bulbs in H-series sizes from 80 mm to 140 mm. Each size has a finned housing for heat dissipation, a matching diffuser and a metal cup, all inspected for dimensions and weight before dispatch.",
+      "specs": [
+        {
+          "label": "Sizes",
+          "value": "H-80, H-100, H-120, H-140 mm"
+        },
+        {
+          "label": "Parts per size",
+          "value": "Housing, diffuser, cup"
+        },
+        {
+          "label": "Housing design",
+          "value": "Finned body for heat dissipation"
+        },
+        {
+          "label": "Inspection",
+          "value": "Digital vernier caliper, weighing scale, micrometer"
+        }
+      ],
+      "parts": [
+        "H-80 housing / diffuser / cup",
+        "H-100 housing / diffuser / cup",
+        "H-120 housing / diffuser / cup",
+        "H-140 housing / diffuser / cup"
+      ],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "AC/DC Bulb Housing",
+      "slug": "ac-dc-bulb-housing",
+      "category": "lighting-housings",
+      "featured": false,
+      "image": "/images/products/lighting/acdc-bulb-housing.jpg",
+      "gallery": [
+        "/images/products/lighting/acdc-bulb-housing.jpg"
+      ],
+      "description": "Housing, diffuser, ring and plate set for AC/DC (rechargeable) LED bulbs.",
+      "overview": "A housing set for AC/DC LED bulbs consisting of the housing, diffuser, ring and plate. Parts are moulded to close tolerances so that the assembly fits without gaps.",
+      "specs": [
+        {
+          "label": "Housing OD",
+          "value": "65.50 ± 0.20 mm"
+        },
+        {
+          "label": "Housing ID",
+          "value": "61.50 ± 0.10 mm"
+        },
+        {
+          "label": "Housing height",
+          "value": "77.75 ± 0.20 mm"
+        },
+        {
+          "label": "Neck diameter",
+          "value": "25.10 ± 0.20 mm"
+        },
+        {
+          "label": "Housing weight",
+          "value": "14.30 – 16.40 g"
+        },
+        {
+          "label": "Parts",
+          "value": "Housing, diffuser, ring, plate"
+        }
+      ],
+      "parts": [
+        "AC/DC housing",
+        "AC/DC diffuser",
+        "AC/DC ring",
+        "AC/DC plate"
+      ],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "Concealed Light Housing",
+      "slug": "concealed-light-housing",
+      "category": "lighting-housings",
+      "featured": true,
+      "image": "/images/products/lighting/concealed-light-housing.jpg",
+      "gallery": [
+        "/images/products/lighting/concealed-light-housing.jpg",
+        "/images/products/lighting/concealed-light-in-use.jpg"
+      ],
+      "description": "Round PC housing for concealed downlights — 110 mm outer diameter, 70 mm cut-out.",
+      "overview": "A round concealed light housing moulded in high-strength polycarbonate with a matte white finish. Designed to take LED modules and COBs, with a smooth front ring for a clean ceiling finish.",
+      "specs": [
+        {
+          "label": "Model",
+          "value": "001"
+        },
+        {
+          "label": "Material",
+          "value": "PC (polycarbonate)"
+        },
+        {
+          "label": "Finish",
+          "value": "Matte white"
+        },
+        {
+          "label": "Shape",
+          "value": "Round"
+        },
+        {
+          "label": "Outer diameter",
+          "value": "110 mm"
+        },
+        {
+          "label": "Cut-out diameter",
+          "value": "70 mm"
+        },
+        {
+          "label": "Height / depth",
+          "value": "33 mm"
+        },
+        {
+          "label": "Part weight",
+          "value": "22.00 g"
+        }
+      ],
+      "parts": [
+        "Front ring housing",
+        "Back housing"
+      ],
+      "readyImage": "/images/products/lighting/concealed-light-in-use.jpg",
+      "readyCaption": "Finished product shown for reference — JURO manufactures the housing and components; assembly is done by our customers."
+    },
+    {
+      "name": "Spot Light Housing — 2W",
+      "slug": "spot-light-housing-2w",
+      "category": "lighting-housings",
+      "featured": true,
+      "image": "/images/products/lighting/spot-light-housing.jpg",
+      "gallery": [
+        "/images/products/lighting/spot-light-housing.jpg"
+      ],
+      "description": "Compact PC housing for 2W LED spot lights — 42 mm outer diameter, 32.4 mm cut-out.",
+      "overview": "A compact white polycarbonate housing for 2W LED spot lights, with spring clips for recessed mounting. Used for accent and decorative lighting in homes, offices, retail stores and showrooms.",
+      "specs": [
+        {
+          "label": "Model",
+          "value": "003"
+        },
+        {
+          "label": "Material",
+          "value": "PC"
+        },
+        {
+          "label": "Finish",
+          "value": "White"
+        },
+        {
+          "label": "Outer diameter",
+          "value": "42 mm"
+        },
+        {
+          "label": "Cut-out size",
+          "value": "32.40 mm"
+        },
+        {
+          "label": "Height",
+          "value": "14.00 mm"
+        },
+        {
+          "label": "Part weight",
+          "value": "6.50 g (approx.)"
+        },
+        {
+          "label": "Used in",
+          "value": "2W LED spot lights"
+        }
+      ],
+      "parts": [
+        "Housing body",
+        "Spring clips"
+      ],
+      "readyImage": "/images/products/lighting/spot-light-housing.jpg",
+      "readyCaption": "Finished product shown for reference — JURO manufactures the housing and components; assembly is done by our customers."
+    },
+    {
+      "name": "Panel Mounting Clip",
+      "slug": "panel-mounting-clip",
+      "category": "lighting-housings",
+      "featured": false,
+      "image": "/images/products/lighting/panel-mounting-clip.jpg",
+      "gallery": [
+        "/images/products/lighting/panel-mounting-clip.jpg"
+      ],
+      "description": "Nickel-plated spring clip for mounting 1×1 and 2×2 LED panels.",
+      "overview": "A spring-type mounting clip for recessed LED panels and fixtures. Made from MS with a nickel-plated silver finish and a high-tension coil spring for a firm hold across different ceiling thicknesses.",
+      "specs": [
+        {
+          "label": "Material",
+          "value": "MS"
+        },
+        {
+          "label": "Finish",
+          "value": "Silver (nickel plated)"
+        },
+        {
+          "label": "Mounting type",
+          "value": "Recessed"
+        },
+        {
+          "label": "Spring type",
+          "value": "High-tension coil spring"
+        },
+        {
+          "label": "Usage",
+          "value": "1×1 and 2×2 panels"
+        },
+        {
+          "label": "Part weight",
+          "value": "12 g (approx.)"
+        }
+      ],
+      "parts": [
+        "Clip body",
+        "Coil spring"
+      ],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "Extension Board Housings",
+      "slug": "extension-board-housings",
+      "category": "electrical-housings",
+      "featured": true,
+      "image": "/images/products/lighting/extension-board-4-socket.jpg",
+      "gallery": [
+        "/images/products/lighting/extension-board-4-socket.jpg",
+        "/images/products/lighting/extension-board-3-socket.jpg",
+        "/images/products/lighting/extension-board-block.jpg",
+        "/images/products/lighting/extension-board-triangle.jpg",
+        "/images/products/lighting/extension-board-cube.jpg"
+      ],
+      "description": "Moulded multi-socket extension board housings in five designs.",
+      "overview": "Front and back housings for multi-socket extension boards, available in five designs: a long strip with USB openings, a round 4-socket strip with indicator, a block type, a compact triangle with handle and a compact cube. Back covers include screw slots for wall mounting.",
+      "specs": [
+        {
+          "label": "Designs",
+          "value": "Strip (3-socket), round strip (4-socket), block, triangle, cube"
+        },
+        {
+          "label": "Material",
+          "value": "PPTF (as per customer specification)"
+        },
+        {
+          "label": "Colour",
+          "value": "White & grey"
+        },
+        {
+          "label": "Mounting",
+          "value": "Wall-mount screw slots on back cover"
+        },
+        {
+          "label": "Supplied as",
+          "value": "Front + back housing set"
+        }
+      ],
+      "parts": [
+        "Front housing",
+        "Back cover",
+        "Socket plate"
+      ],
+      "readyImage": "/images/products/lighting/extension-board-3-socket.jpg",
+      "readyCaption": "Finished product shown for reference — JURO manufactures the housing and components; assembly is done by our customers."
+    },
+    {
+      "name": "16A Socket-with-Switch Box Housing",
+      "slug": "16a-socket-with-switch-box-housing",
+      "category": "electrical-housings",
+      "featured": false,
+      "image": "/images/products/lighting/combined-box-16a.jpg",
+      "gallery": [
+        "/images/products/lighting/combined-box-16a.jpg"
+      ],
+      "description": "Polycarbonate combined box housing for a 16A socket with switch.",
+      "overview": "A flush-mounting combined box housing for a 16A 3-pin socket with a one-way switch. Moulded in polycarbonate with a premium glossy white finish, for residential and commercial use.",
+      "specs": [
+        {
+          "label": "Type",
+          "value": "Combined box (socket with switch)"
+        },
+        {
+          "label": "Socket opening",
+          "value": "3-pin, 16A"
+        },
+        {
+          "label": "Switch opening",
+          "value": "1-way switch"
+        },
+        {
+          "label": "Body material",
+          "value": "Polycarbonate (PC)"
+        },
+        {
+          "label": "Finish",
+          "value": "Premium glossy white"
+        },
+        {
+          "label": "Mounting",
+          "value": "Flush mounting"
+        }
+      ],
+      "parts": [
+        "Front plate housing",
+        "Back box"
+      ],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "Precision Turned Pins & Studs",
+      "slug": "precision-turned-pins-studs",
+      "category": "turned-components",
+      "featured": true,
+      "image": "/images/products/turned-components-1.jpg",
+      "gallery": [
+        "/images/products/turned-components-1.jpg"
+      ],
+      "description": "Studs, square pins, anchors and coil rivets machined to your drawing.",
+      "overview": "Studs, square pins, anchors and coil rivets machined to your drawing.",
+      "specs": [],
+      "parts": [],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "Bushes, Spacers & Turned Fittings",
+      "slug": "bushes-spacers-turned-fittings",
+      "category": "turned-components",
+      "featured": true,
+      "image": "/images/products/turned-components-2.jpg",
+      "gallery": [
+        "/images/products/turned-components-2.jpg"
+      ],
+      "description": "Bushes, spacers, cable adjusters and threaded fittings in brass, aluminium and SS.",
+      "overview": "Bushes, spacers, cable adjusters and threaded fittings in brass, aluminium and SS.",
+      "specs": [],
+      "parts": [],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "Formed Covers & Housings",
+      "slug": "formed-covers-housings",
+      "category": "sheet-metal-components",
+      "featured": true,
+      "image": "/images/products/sheet-metal-brackets.jpg",
+      "gallery": [
+        "/images/products/sheet-metal-brackets.jpg"
+      ],
+      "description": "Bent and punched sheet metal covers and housings for electrical and industrial equipment.",
+      "overview": "Bent and punched sheet metal covers and housings for electrical and industrial equipment.",
+      "specs": [],
+      "parts": [],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "Mounting Brackets",
+      "slug": "mounting-brackets",
+      "category": "sheet-metal-components",
+      "featured": false,
+      "image": "/images/products/sheet-metal-bracket-2.jpg",
+      "gallery": [
+        "/images/products/sheet-metal-bracket-2.jpg"
+      ],
+      "description": "Formed brackets with punched mounting holes, made to customer drawings.",
+      "overview": "Formed brackets with punched mounting holes, made to customer drawings.",
+      "specs": [],
+      "parts": [],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "Pressed Angle Clamps",
+      "slug": "pressed-angle-clamps",
+      "category": "sheet-metal-components",
+      "featured": false,
+      "image": "/images/products/sheet-metal-clamps.jpg",
+      "gallery": [
+        "/images/products/sheet-metal-clamps.jpg"
+      ],
+      "description": "Pressed and bent clamps for fixing and support applications.",
+      "overview": "Pressed and bent clamps for fixing and support applications.",
+      "specs": [],
+      "parts": [],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "Pressed Cups",
+      "slug": "pressed-cups",
+      "category": "sheet-metal-components",
+      "featured": false,
+      "image": "/images/products/sheet-metal-cup.jpg",
+      "gallery": [
+        "/images/products/sheet-metal-cup.jpg"
+      ],
+      "description": "Drawn and pierced sheet metal cups produced on in-house power presses.",
+      "overview": "Drawn and pierced sheet metal cups produced on in-house power presses.",
+      "specs": [],
+      "parts": [],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "Punched Discs & Plates",
+      "slug": "punched-discs-plates",
+      "category": "sheet-metal-components",
+      "featured": false,
+      "image": "/images/products/sheet-metal-disc.jpg",
+      "gallery": [
+        "/images/products/sheet-metal-disc.jpg"
+      ],
+      "description": "Blanked and pierced discs and plates in the hole pattern you specify.",
+      "overview": "Blanked and pierced discs and plates in the hole pattern you specify.",
+      "specs": [],
+      "parts": [],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "Press Tools",
+      "slug": "press-tools",
+      "category": "press-tools",
+      "featured": false,
+      "image": "",
+      "gallery": [],
+      "description": "Blanking, piercing and forming tools for sheet metal parts.",
+      "overview": "Blanking, piercing and forming tools for sheet metal parts.",
+      "specs": [],
+      "parts": [],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "Elevator Components & Accessories",
+      "slug": "elevator-components-accessories",
+      "category": "elevator-components",
+      "featured": false,
+      "image": "",
+      "gallery": [],
+      "description": "Machined and sheet metal parts and accessories for elevator manufacturers.",
+      "overview": "Machined and sheet metal parts and accessories for elevator manufacturers.",
+      "specs": [],
+      "parts": [],
+      "readyImage": "",
+      "readyCaption": ""
+    },
+    {
+      "name": "Fabrication & Job Work",
+      "slug": "fabrication-job-work",
+      "category": "fabrication-job-work",
+      "featured": false,
+      "image": "",
+      "gallery": [],
+      "description": "MIG and arc welding, gas cutting, machining and pressing job work.",
+      "overview": "MIG and arc welding, gas cutting, machining and pressing job work.",
+      "specs": [],
+      "parts": [],
+      "readyImage": "",
+      "readyCaption": ""
+    }
+  ],
+  "categoriesHeading": "Product categories in detail",
+  "categories": [
+    {
+      "title": "Lighting Housings & Components",
+      "slug": "lighting-housings",
+      "filterLabel": "Lighting",
+      "category": "Industrial Products",
+      "summary": "Moulded housings, diffusers, cups, rings and clips for LED bulbs, downlights and panels.",
+      "seoDescription": "LED bulb housings (A-series, H-series, AC/DC), concealed light housings, spot light housings and panel mounting clips manufactured by Jugnu Roshni Pvt. Ltd. (JURO), Ghaziabad.",
+      "bannerImage": "/images/products/lighting/concealed-light-housing.jpg",
+      "description": "We manufacture housings and components for the lighting industry: LED bulb housings with matching diffusers, cups, rings and plates, concealed and spot light housings, and spring-type panel mounting clips. Parts are produced to the customer's drawing and inspected for outer diameter, inner diameter, height, neck diameter and weight before dispatch.\n\nWe supply the housing and components; our customers assemble the electronics and finished light.",
+      "items": [
+        "LED bulb housings",
+        "Diffusers",
+        "Cups & rings",
+        "Plates",
+        "Concealed light housings",
+        "Spot light housings",
+        "Panel mounting clips"
+      ],
+      "industries": [
+        "Lighting"
+      ],
+      "image": "/images/products/lighting/concealed-light-housing.jpg",
+      "gallery": [
+        "/images/products/lighting/concealed-light-housing.jpg",
+        "/images/products/lighting/led-bulb-housing-range.jpg",
+        "/images/products/lighting/spot-light-housing.jpg",
+        "/images/products/lighting/panel-mounting-clip.jpg"
+      ]
+    },
+    {
+      "title": "Electrical Accessory Housings",
+      "slug": "electrical-housings",
+      "filterLabel": "Electrical",
+      "category": "Industrial Products",
+      "summary": "Moulded housings for extension boards and modular socket-with-switch boxes.",
+      "seoDescription": "Extension board housings and 16A socket-with-switch box housings manufactured by Jugnu Roshni Pvt. Ltd. (JURO), Ghaziabad.",
+      "bannerImage": "/images/products/lighting/combined-box-16a.jpg",
+      "description": "We manufacture moulded housings for electrical accessories, including multi-socket extension board housings in several designs and 16A socket-with-switch combined box housings. Housings are made to the customer's design and supplied for assembly into the finished product.",
+      "items": [
+        "Extension board housings",
+        "Socket-with-switch box housings",
+        "Wall-mount back covers"
+      ],
+      "industries": [
+        "Electrical accessories"
+      ],
+      "image": "/images/products/lighting/combined-box-16a.jpg",
+      "gallery": [
+        "/images/products/lighting/combined-box-16a.jpg",
+        "/images/products/lighting/extension-board-4-socket.jpg",
+        "/images/products/lighting/extension-board-cube.jpg"
+      ]
+    },
+    {
+      "title": "Turned Components",
+      "slug": "turned-components",
+      "category": "Industrial Products",
+      "summary": "Precision turned parts for switchgear, lighting, energy meter and automobile industries.",
+      "description": "We manufacture and supply turned components for the switchgear, lighting, energy meter and automobile industries. Our team of qualified professionals machines each part to the customer's drawing, and every component can be customised to specific technical requirements.",
+      "items": [
+        "Coil rivets",
+        "Mini coil rivets",
+        "Studs",
+        "Anchors",
+        "Bushes",
+        "Cable adjusters",
+        "Square pins",
+        "Spacers",
+        "Aluminium auto parts",
+        "Brass auto parts",
+        "SS machined components"
+      ],
+      "image": "/images/products/turned-components-1.jpg",
+      "gallery": [
+        "/images/products/turned-components-1.jpg",
+        "/images/products/turned-components-2.jpg"
+      ],
+      "filterLabel": "Turned",
+      "bannerImage": "/images/hero/hero-turned.jpg",
+      "industries": [
+        "Switchgear",
+        "Lighting",
+        "Energy meters",
+        "Automobile"
+      ],
+      "seoDescription": "Turned Components manufactured by Jugnu Roshni Pvt. Ltd. (JURO), Ghaziabad. Precision turned parts for switchgear, lighting, energy meter and automobile industries."
+    },
+    {
+      "title": "Sheet Metal Components",
+      "slug": "sheet-metal-components",
+      "category": "Industrial Products",
+      "summary": "Pressed, punched and formed sheet metal parts, brackets, covers and discs.",
+      "description": "A wide variety of sheet metal components manufactured by experienced professionals and inspected on defined parameters such as reliability, durability and performance, so that defective parts are removed before dispatch.",
+      "items": [
+        "Brackets",
+        "Covers & housings",
+        "Clamps",
+        "Pressed cups",
+        "Punched discs & plates",
+        "Custom formed parts"
+      ],
+      "image": "/images/products/sheet-metal-brackets.jpg",
+      "gallery": [
+        "/images/products/sheet-metal-brackets.jpg",
+        "/images/products/sheet-metal-bracket-2.jpg",
+        "/images/products/sheet-metal-clamps.jpg",
+        "/images/products/sheet-metal-cup.jpg",
+        "/images/products/sheet-metal-disc.jpg"
+      ],
+      "filterLabel": "Sheet Metal",
+      "bannerImage": "/images/hero/hero-sheet-metal.jpg",
+      "industries": [],
+      "seoDescription": "Sheet Metal Components manufactured by Jugnu Roshni Pvt. Ltd. (JURO), Ghaziabad. Pressed, punched and formed sheet metal parts, brackets, covers and discs."
+    },
+    {
+      "title": "Press Tools",
+      "slug": "press-tools",
+      "category": "Industrial Products",
+      "summary": "Press tools for blanking, piercing and forming of sheet metal parts.",
+      "description": "We make press tools for sheet metal components and run them on our in-house power presses of 5, 10 and 20 ton capacity. Tools are built to suit the component drawing and production volume.",
+      "items": [
+        "Blanking tools",
+        "Piercing tools",
+        "Forming / bending tools",
+        "Tool maintenance"
+      ],
+      "image": "",
+      "gallery": [],
+      "filterLabel": "Press Tools",
+      "bannerImage": "/images/hero/hero-press-tools.jpg",
+      "industries": [],
+      "seoDescription": "Press Tools manufactured by Jugnu Roshni Pvt. Ltd. (JURO), Ghaziabad. Press tools for blanking, piercing and forming of sheet metal parts."
+    },
+    {
+      "title": "Elevator Components & Accessories",
+      "slug": "elevator-components",
+      "category": "Industrial Products",
+      "summary": "Machined and sheet metal components and accessories for elevator manufacturers.",
+      "description": "We supply elevator components and accessories, including machined and sheet metal parts, made to the specifications of elevator manufacturers.",
+      "items": [
+        "Machined elevator parts",
+        "Sheet metal elevator parts",
+        "Brackets & fixtures",
+        "Custom accessories"
+      ],
+      "image": "",
+      "gallery": [],
+      "filterLabel": "Elevator",
+      "bannerImage": "/images/hero/hero-precision.jpg",
+      "industries": [
+        "Elevators"
+      ],
+      "seoDescription": "Elevator Components & Accessories manufactured by Jugnu Roshni Pvt. Ltd. (JURO), Ghaziabad. Machined and sheet metal components and accessories for elevator manufacturers."
+    },
+    {
+      "title": "Industrial Fabrication & Job Work",
+      "slug": "fabrication-job-work",
+      "category": "Fabrication Services",
+      "summary": "MIG and arc welding, gas cutting and all types of job work.",
+      "description": "Industrial fabrication services delivered as per our customers' varied requirements, supported by MIG welding, arc welding and gas cutting equipment. We also take up all types of machining and pressing job work.",
+      "items": [
+        "MIG welding",
+        "Arc welding",
+        "Gas cutting",
+        "Machining job work",
+        "Pressing job work"
+      ],
+      "image": "",
+      "gallery": [],
+      "filterLabel": "Fabrication",
+      "bannerImage": "/images/hero/hero-sheet-metal.jpg",
+      "industries": [],
+      "seoDescription": "Industrial Fabrication & Job Work manufactured by Jugnu Roshni Pvt. Ltd. (JURO), Ghaziabad. MIG and arc welding, gas cutting and all types of job work."
+    }
+  ],
+  "featuresHeading": "Features of our range",
+  "features": [
+    "Durable finish standards",
+    "Optimum performance",
+    "Precision engineered",
+    "Corrosion resistant"
+  ],
+  "gridEyebrow": "Catalogue",
+  "categoriesEyebrow": "Categories",
+  "featuresEyebrow": "Quality you can rely on",
+  "featuresText": "Every component is checked on defined parameters before it leaves our works.",
+  "categoriesText": "Open a category for its full range, photos and enquiry options."
+}

@@ -1,0 +1,42 @@
+{
+  "shortDescription": "Manufacturer of turned components, sheet metal components, press tools, elevator components and industrial fabrication — Rajinder Nagar Industrial Area, Ghaziabad.",
+  "addresses": [
+    {
+      "label": "Works (Manufacturing Unit)",
+      "lines": "Plot No. 28–29, Between Gali No. 3 & 4,\nRajinder Nagar Industrial Area, Mohan Nagar,\nGhaziabad, Uttar Pradesh 201005",
+      "mapQuery": "Rajinder Nagar Industrial Area, Mohan Nagar, Ghaziabad 201005"
+    },
+    {
+      "label": "Head Office",
+      "lines": "E4/1806, Panchsheel Greens-2, Sector 16B,\nGreater Noida, Uttar Pradesh 201318",
+      "mapQuery": "Panchsheel Greens 2, Sector 16B, Greater Noida 201318"
+    }
+  ],
+  "companyName": "Jugnu Roshni Pvt. Ltd.",
+  "siteUrl": "https://www.jugnuroshni.com",
+  "topbarText": "Rajinder Nagar Industrial Area, Ghaziabad",
+  "logo": "/uploads/logo.png",
+  "whatsappGreeting": "Hello Jugnu Roshni team, I would like to enquire about your products/services.",
+  "footerNote": "Precision turned components, sheet metal parts, press tools and fabrication — manufactured in Ghaziabad for customers across India.",
+  "tagline": "Shaping Strength, Delivering Precision",
+  "brandName": "JURO",
+  "contacts": [
+    {
+      "name": "Mr. Manish Kumar",
+      "role": "Contact person",
+      "phone": "+91 90455 06413"
+    },
+    {
+      "name": "Mr. Rajkumar",
+      "role": "Contact person",
+      "phone": "+91 99908 22343"
+    }
+  ],
+  "marqueeTitle": "Trusted supplier to",
+  "floatingButton": "Enquire Now",
+  "ctaEyebrow": "Start a project",
+  "whatsappNumber": "919045506413",
+  "email": "info@jugnuroshni.com",
+  "workingHours": "24*7",
+  "headerButton": "Enquire Now"
+}

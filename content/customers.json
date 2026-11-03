@@ -1,0 +1,76 @@
+{
+  "seoTitle": "Our Customers — Jugnu Roshni Pvt. Ltd. (JURO)",
+  "seoDescription": "JURO supplies components to customers including Orient Electric, Surya Roshni, Jaquar, E.C.E Industries and more across switchgear, lighting, elevator and engineering sectors.",
+  "bannerImage": "/images/hero/hero-turned.jpg",
+  "heading": "Our Valued Customers",
+  "intro": "We are proud to supply components to respected manufacturers across North and West India.",
+  "customers": [
+    {
+      "name": "Orient Electric Limited",
+      "location": "Noida",
+      "note": "",
+      "logo": ""
+    },
+    {
+      "name": "Surya Roshni Ltd.",
+      "location": "Kashipur",
+      "note": "",
+      "logo": ""
+    },
+    {
+      "name": "Jaquar & Company Pvt. Ltd.",
+      "location": "Bhiwandi",
+      "note": "",
+      "logo": ""
+    },
+    {
+      "name": "E.C.E Industries Limited",
+      "location": "Ghaziabad",
+      "note": "Elevator Division (B.K. Birla Group)",
+      "logo": ""
+    },
+    {
+      "name": "Excellent Tools and Components Pvt. Ltd.",
+      "location": "Greater Noida",
+      "note": "",
+      "logo": ""
+    },
+    {
+      "name": "ANU Industries Limited",
+      "location": "Manesar",
+      "note": "J.P.M Group",
+      "logo": ""
+    },
+    {
+      "name": "Jupro Industries",
+      "location": "Noida",
+      "note": "",
+      "logo": ""
+    },
+    {
+      "name": "Vishwakarma Udyog",
+      "location": "Noida",
+      "note": "",
+      "logo": ""
+    },
+    {
+      "name": "Modern Transformer",
+      "location": "Ghaziabad",
+      "note": "",
+      "logo": ""
+    },
+    {
+      "name": "S-Plast Industries",
+      "location": "Noida",
+      "note": "",
+      "logo": ""
+    }
+  ],
+  "disclaimer": "Company names are listed for reference of supply relationships. All trademarks belong to their respective owners.",
+  "ctaHeading": "Become our next satisfied customer",
+  "ctaText": "Tell us what you need — we will review your drawing and respond with a quotation.",
+  "listEyebrow": "Supply relationships",
+  "listHeading": "Companies we supply",
+  "listText": "10 industrial customers across Noida, Greater Noida, Ghaziabad, Manesar, Kashipur and Bhiwandi.",
+  "ctaButton": "Enquire Now"
+}

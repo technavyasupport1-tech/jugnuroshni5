@@ -1,0 +1,185 @@
+{
+  "seoTitle": "Jugnu Roshni Pvt. Ltd. (JURO) — Turned & Sheet Metal Components Manufacturer, Ghaziabad",
+  "seoDescription": "JURO manufactures precision turned components, sheet metal components, press tools, elevator components and industrial fabrication for switchgear, lighting, energy meter, automobile and elevator industries.",
+  "hero": {
+    "eyebrow": "Precision Component Manufacturer · Ghaziabad",
+    "heading": "Shaping Strength,\nDelivering Precision.",
+    "subheading": "Lighting & electrical housings, turned components, sheet metal parts, press tools and fabrication — built to your drawings and specifications.",
+    "primaryButton": "Enquire Now",
+    "secondaryButton": "View Products",
+    "slides": [
+      {
+        "image": "/images/hero/hero-turned.jpg",
+        "alt": "Precision turned components for switchgear and automobile applications",
+        "label": "Turned Components"
+      },
+      {
+        "image": "/images/hero/hero-sheet-metal.jpg",
+        "alt": "Formed sheet metal enclosure components",
+        "label": "Sheet Metal Components"
+      },
+      {
+        "image": "/images/hero/hero-precision.jpg",
+        "alt": "Machined pins, studs and bushes",
+        "label": "Precision Machined Parts"
+      },
+      {
+        "image": "/images/hero/hero-press-tools.jpg",
+        "alt": "Pressed sheet metal brackets with press-tool drawing",
+        "label": "Press Tools & Pressed Parts"
+      }
+    ]
+  },
+  "intro": {
+    "eyebrow": "Who we are",
+    "heading": "A focused manufacturing partner for industrial components",
+    "text": "Jugnu Roshni Pvt. Ltd. was established in 2023 in the Rajinder Nagar Industrial Area, Ghaziabad. We manufacture and supply turned components for switchgear, lighting, energy meter and automobile industries, along with sheet metal components, press tools, elevator components and accessories. We also undertake job work and industrial fabrication for customers across India.\n\nEvery component is produced from quality raw material sourced from established vendors and checked against defined parameters before dispatch.",
+    "image": "/images/products/turned-components-2.jpg",
+    "imageAlt": "Assorted precision turned components manufactured by JURO"
+  },
+  "stats": [
+    {
+      "value": 2023,
+      "suffix": "",
+      "label": "Year established",
+      "plain": true
+    },
+    {
+      "value": 22,
+      "suffix": "",
+      "label": "Machines on the shop floor"
+    },
+    {
+      "value": 10,
+      "suffix": "+",
+      "label": "Industrial customers served"
+    }
+  ],
+  "whyHeading": "Why manufacturers work with JURO",
+  "why": [
+    {
+      "title": "Precision engineered",
+      "text": "Components machined and formed to the technical specifications and drawings shared by our customers."
+    },
+    {
+      "title": "Durable finish standards",
+      "text": "Consistent surface finish and dimensional accuracy, batch after batch."
+    },
+    {
+      "title": "Corrosion resistant",
+      "text": "Material and finish selection suited to the operating environment of each component."
+    },
+    {
+      "title": "Optimum performance",
+      "text": "Every lot is checked for durability, performance, raw material and reliability before dispatch."
+    }
+  ],
+  "processHeading": "From your drawing to dispatch",
+  "process": [
+    {
+      "title": "Share your requirement",
+      "text": "Send a drawing, sample or specification along with the quantity required."
+    },
+    {
+      "title": "Review & quotation",
+      "text": "Our team studies material, tolerances and tooling, and shares a quotation."
+    },
+    {
+      "title": "Manufacturing",
+      "text": "Turning, pressing, drilling, tapping, milling, grinding or fabrication in-house."
+    },
+    {
+      "title": "Quality check",
+      "text": "Inspection on defined parameters — durability, performance, material and reliability."
+    },
+    {
+      "title": "Packing & dispatch",
+      "text": "Packed carefully and dispatched to your plant."
+    }
+  ],
+  "industriesHeading": "Industries we serve",
+  "industries": [
+    "Lighting",
+    "Electrical accessories",
+    "Switchgear",
+    "Energy Meters",
+    "Automobile",
+    "Elevators",
+    "General Engineering"
+  ],
+  "cta": {
+    "heading": "Have a drawing or sample? Let's make it.",
+    "text": "Share your component requirement and our team will get back to you with a quotation.",
+    "button": "Enquire Now"
+  },
+  "trust": [
+    {
+      "icon": "machines",
+      "title": "22 in-house machines",
+      "text": "Turning, pressing, milling & welding"
+    },
+    {
+      "icon": "drawing",
+      "title": "Made to your drawing",
+      "text": "Custom parts to your specifications"
+    },
+    {
+      "icon": "shield",
+      "title": "Checked before dispatch",
+      "text": "Durability, performance & material"
+    },
+    {
+      "icon": "factory",
+      "title": "Ghaziabad works",
+      "text": "Serving customers across India"
+    }
+  ],
+  "productsEyebrow": "What we make",
+  "productsHeading": "Products we manufacture",
+  "productsText": "Housings for lighting and electrical products, precision turned components, sheet metal parts, press tools and fabrication — all manufactured in-house.",
+  "faqHeading": "Frequently asked questions",
+  "faq": [
+    {
+      "q": "What products does Jugnu Roshni Pvt. Ltd. (JURO) manufacture?",
+      "a": "We manufacture turned components for the switchgear, lighting, energy meter and automobile industries, sheet metal components, press tools, and elevator components and accessories. We also provide industrial fabrication and job work."
+    },
+    {
+      "q": "Can you make components to our own drawing?",
+      "a": "Yes. Our components are customised to the technical specifications shared by customers. Send us your drawing or a sample along with the quantity required."
+    },
+    {
+      "q": "Do you take job work?",
+      "a": "Yes. We take up machining, pressing and fabrication job work, including MIG welding, arc welding and gas cutting."
+    },
+    {
+      "q": "Where is your factory located?",
+      "a": "Our works is at Plot No. 28–29, Between Gali No. 3 & 4, Rajinder Nagar Industrial Area, Mohan Nagar, Ghaziabad, Uttar Pradesh 201005. Our head office is in Sector 16B, Greater Noida."
+    },
+    {
+      "q": "Which machines do you have?",
+      "a": "Our shop floor has Traub machines, drilling machines, power presses (5, 10 and 20 ton), a lathe, vertical milling machine, surface grinder, tapping machine, band saw, MIG and arc welding machines and a gas cutting machine, with a 15 kVA generator for power backup."
+    },
+    {
+      "q": "How can I get a quotation?",
+      "a": "Fill in the enquiry form on the Contact page, message us on WhatsApp, or call +91 90455 06413 / +91 99908 22343 with your component details and quantity."
+    }
+  ],
+  "introBadge": {
+    "label": "Est.",
+    "value": "2023",
+    "place": "Ghaziabad, U.P."
+  },
+  "introButtons": {
+    "primary": "About the company",
+    "secondary": "Enquire Now"
+  },
+  "whyEyebrow": "Our strengths",
+  "whyText": "Built on qualified people, dependable raw material and in-house machines, so your components arrive right the first time.",
+  "processEyebrow": "How we work",
+  "faqEyebrow": "FAQ",
+  "faqText": "Can't find your answer? Talk to our team directly.",
+  "faqButton": "Ask a question",
+  "testimonialsEyebrow": "What customers say",
+  "testimonialsHeading": "Customer feedback",
+  "testimonials": []
+}

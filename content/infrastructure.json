@@ -1,0 +1,123 @@
+{
+  "seoTitle": "Infrastructure & Quality — Machines and Quality Checks | JURO, Ghaziabad",
+  "seoDescription": "JURO's works in Rajinder Nagar Industrial Area, Ghaziabad: Traub automats, power presses, drilling, milling, grinding, welding and gas cutting machines, with every lot checked before dispatch.",
+  "bannerImage": "/images/hero/hero-press-tools.jpg",
+  "heading": "Infrastructure & Quality",
+  "intro": "Turning, pressing, machining and fabrication under one roof at our works in Rajinder Nagar Industrial Area, Ghaziabad.",
+  "capabilitiesEyebrow": "In-house capability",
+  "capabilitiesHeading": "What our shop floor can do",
+  "capabilities": [
+    {
+      "icon": "turning",
+      "title": "Precision turning",
+      "text": "Traub automatic lathes and a lathe machine for turned components such as rivets, studs, bushes, pins and spacers."
+    },
+    {
+      "icon": "press",
+      "title": "Press shop",
+      "text": "Power presses of 20, 10 and 5 ton capacity, running press tools for blanking, piercing and forming sheet metal parts."
+    },
+    {
+      "icon": "drill",
+      "title": "Drilling, tapping & milling",
+      "text": "Drilling machines, a tapping machine and a vertical milling machine for secondary operations."
+    },
+    {
+      "icon": "grind",
+      "title": "Grinding & finishing",
+      "text": "A surface grinder for flatness and surface finish on machined parts."
+    },
+    {
+      "icon": "weld",
+      "title": "Welding & fabrication",
+      "text": "MIG and arc welding, gas cutting and a band saw for industrial fabrication and job work."
+    },
+    {
+      "icon": "power",
+      "title": "Power backup",
+      "text": "A 15 kVA generator set keeps production running during power cuts."
+    }
+  ],
+  "machinesEyebrow": "Infrastructure",
+  "machinesHeading": "Machines available",
+  "machinesText": "Our works at Rajinder Nagar Industrial Area is equipped for turning, drilling, tapping, milling, grinding, pressing, welding and cutting, with 23 machines in total including power backup.",
+  "machines": [
+    {
+      "name": "Traub machines",
+      "qty": "5"
+    },
+    {
+      "name": "Drilling machines",
+      "qty": "5"
+    },
+    {
+      "name": "Power presses (20 T, 10 T, 5 T)",
+      "qty": "3"
+    },
+    {
+      "name": "Arc welding machines",
+      "qty": "2"
+    },
+    {
+      "name": "MIG welding machine",
+      "qty": "1"
+    },
+    {
+      "name": "Gas cutting machine",
+      "qty": "1"
+    },
+    {
+      "name": "Lathe machine",
+      "qty": "1"
+    },
+    {
+      "name": "Vertical milling machine",
+      "qty": "1"
+    },
+    {
+      "name": "Surface grinder",
+      "qty": "1"
+    },
+    {
+      "name": "Tapping machine",
+      "qty": "1"
+    },
+    {
+      "name": "Band saw",
+      "qty": "1"
+    },
+    {
+      "name": "Generator set (15 kVA)",
+      "qty": "1"
+    }
+  ],
+  "facts": [
+    {
+      "label": "Works",
+      "value": "Rajinder Nagar Industrial Area, Ghaziabad"
+    },
+    {
+      "label": "Working area",
+      "value": "1,200 sq ft"
+    },
+    {
+      "label": "Machines",
+      "value": "23 including power backup"
+    },
+    {
+      "label": "Team",
+      "value": "8 – 10 people"
+    }
+  ],
+  "qualityEyebrow": "Quality",
+  "qualityHeading": "Quality approach",
+  "qualityText": "After manufacturing, our range is checked by quality controllers on defined parameters such as durability, performance, raw material used and reliability, so that only sound components reach our customers.",
+  "qualityChecks": [
+    "Durability",
+    "Performance",
+    "Raw material used",
+    "Reliability"
+  ],
+  "rawMaterialText": "Raw material is sourced from established vendors, and components can be customised to the technical specifications shared by customers.",
+  "certificationsNote": ""
+}
