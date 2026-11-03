@@ -1,33 +1,36 @@
 {
-  "seoTitle": "Our Customers — Jugnu Roshni Pvt. Ltd. (JURO)",
-  "seoDescription": "JURO supplies components to customers including Orient Electric, Surya Roshni, Jaquar, E.C.E Industries and more across switchgear, lighting, elevator and engineering sectors.",
-  "bannerImage": "/images/hero/hero-turned.jpg",
+  "ctaButton": "Enquire Now",
   "heading": "Our Valued Customers",
+  "listHeading": "Companies we supply",
+  "listEyebrow": "Supply relationships",
+  "listText": "10 industrial customers across Noida, Greater Noida, Ghaziabad, Manesar, Kashipur and Bhiwandi.",
   "intro": "We are proud to supply components to respected manufacturers across North and West India.",
+  "bannerImage": "/uploads/fabrication-ya-elevator-components-page.png",
+  "ctaHeading": "Become our next satisfied customer",
   "customers": [
     {
       "name": "Orient Electric Limited",
       "location": "Noida",
       "note": "",
-      "logo": ""
+      "logo": "<a href=\"https://commons.wikimedia.org/wiki/File:Orient_Electric_logo.svg\">Orient Electric Limited</a>, Public domain, via Wikimedia Commons"
     },
     {
       "name": "Surya Roshni Ltd.",
       "location": "Kashipur",
       "note": "",
-      "logo": ""
+      "logo": "By Surya Roshni - https://www.surya.co.in/, Public Domain, https://en.wikipedia.org/w/index.php?curid=79758371"
     },
     {
       "name": "Jaquar & Company Pvt. Ltd.",
       "location": "Bhiwandi",
       "note": "",
-      "logo": ""
+      "logo": "/uploads/official_jaquar_group_logo.png"
     },
     {
       "name": "E.C.E Industries Limited",
       "location": "Ghaziabad",
       "note": "Elevator Division (B.K. Birla Group)",
-      "logo": ""
+      "logo": "/uploads/ckabirla_logo.png"
     },
     {
       "name": "Excellent Tools and Components Pvt. Ltd.",
@@ -67,10 +70,7 @@
     }
   ],
   "disclaimer": "Company names are listed for reference of supply relationships. All trademarks belong to their respective owners.",
-  "ctaHeading": "Become our next satisfied customer",
+  "seoTitle": "Our Customers — Jugnu Roshni Pvt. Ltd. (JURO)",
   "ctaText": "Tell us what you need — we will review your drawing and respond with a quotation.",
-  "listEyebrow": "Supply relationships",
-  "listHeading": "Companies we supply",
-  "listText": "10 industrial customers across Noida, Greater Noida, Ghaziabad, Manesar, Kashipur and Bhiwandi.",
-  "ctaButton": "Enquire Now"
+  "seoDescription": "JURO supplies components to customers including Orient Electric, Surya Roshni, Jaquar, E.C.E Industries and more across switchgear, lighting, elevator and engineering sectors."
 }
