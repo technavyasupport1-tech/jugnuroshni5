@@ -1,61 +1,9 @@
 {
-  "seoTitle": "Jugnu Roshni Pvt. Ltd. (JURO) — Turned & Sheet Metal Components Manufacturer, Ghaziabad",
-  "seoDescription": "JURO manufactures precision turned components, sheet metal components, press tools, elevator components and industrial fabrication for switchgear, lighting, energy meter, automobile and elevator industries.",
-  "hero": {
-    "eyebrow": "Precision Component Manufacturer · Ghaziabad",
-    "heading": "Shaping Strength,\nDelivering Precision.",
-    "subheading": "Lighting & electrical housings, turned components, sheet metal parts, press tools and fabrication — built to your drawings and specifications.",
-    "primaryButton": "Enquire Now",
-    "secondaryButton": "View Products",
-    "slides": [
-      {
-        "image": "/images/hero/hero-turned.jpg",
-        "alt": "Precision turned components for switchgear and automobile applications",
-        "label": "Turned Components"
-      },
-      {
-        "image": "/images/hero/hero-sheet-metal.jpg",
-        "alt": "Formed sheet metal enclosure components",
-        "label": "Sheet Metal Components"
-      },
-      {
-        "image": "/images/hero/hero-precision.jpg",
-        "alt": "Machined pins, studs and bushes",
-        "label": "Precision Machined Parts"
-      },
-      {
-        "image": "/images/hero/hero-press-tools.jpg",
-        "alt": "Pressed sheet metal brackets with press-tool drawing",
-        "label": "Press Tools & Pressed Parts"
-      }
-    ]
-  },
-  "intro": {
-    "eyebrow": "Who we are",
-    "heading": "A focused manufacturing partner for industrial components",
-    "text": "Jugnu Roshni Pvt. Ltd. was established in 2023 in the Rajinder Nagar Industrial Area, Ghaziabad. We manufacture and supply turned components for switchgear, lighting, energy meter and automobile industries, along with sheet metal components, press tools, elevator components and accessories. We also undertake job work and industrial fabrication for customers across India.\n\nEvery component is produced from quality raw material sourced from established vendors and checked against defined parameters before dispatch.",
-    "image": "/images/products/turned-components-2.jpg",
-    "imageAlt": "Assorted precision turned components manufactured by JURO"
-  },
-  "stats": [
-    {
-      "value": 2023,
-      "suffix": "",
-      "label": "Year established",
-      "plain": true
-    },
-    {
-      "value": 22,
-      "suffix": "",
-      "label": "Machines on the shop floor"
-    },
-    {
-      "value": 10,
-      "suffix": "+",
-      "label": "Industrial customers served"
-    }
-  ],
-  "whyHeading": "Why manufacturers work with JURO",
+  "whyEyebrow": "Our strengths",
+  "faqText": "Can't find your answer? Talk to our team directly.",
+  "productsEyebrow": "What we make",
+  "industriesHeading": "Industries we serve",
+  "faqButton": "Ask a question",
   "why": [
     {
       "title": "Precision engineered",
@@ -74,7 +22,15 @@
       "text": "Every lot is checked for durability, performance, raw material and reliability before dispatch."
     }
   ],
-  "processHeading": "From your drawing to dispatch",
+  "faqHeading": "Frequently asked questions",
+  "intro": {
+    "eyebrow": "Who we are",
+    "heading": "A focused manufacturing partner for industrial components",
+    "text": "Jugnu Roshni Pvt. Ltd. was established in 2023 in the Rajinder Nagar Industrial Area, Ghaziabad. We manufacture and supply turned components for switchgear, lighting, energy meter and automobile industries, along with sheet metal components, press tools, elevator components and accessories. We also undertake job work and industrial fabrication for customers across India.\n\nEvery component is produced from quality raw material sourced from established vendors and checked against defined parameters before dispatch.",
+    "image": "/uploads/designer-6-.png",
+    "imageAlt": "Assorted precision turned components manufactured by JURO"
+  },
+  "testimonialsHeading": "Customer feedback",
   "process": [
     {
       "title": "Share your requirement",
@@ -97,47 +53,21 @@
       "text": "Packed carefully and dispatched to your plant."
     }
   ],
-  "industriesHeading": "Industries we serve",
-  "industries": [
-    "Lighting",
-    "Electrical accessories",
-    "Switchgear",
-    "Energy Meters",
-    "Automobile",
-    "Elevators",
-    "General Engineering"
-  ],
   "cta": {
     "heading": "Have a drawing or sample? Let's make it.",
     "text": "Share your component requirement and our team will get back to you with a quotation.",
     "button": "Enquire Now"
   },
-  "trust": [
-    {
-      "icon": "machines",
-      "title": "22 in-house machines",
-      "text": "Turning, pressing, milling & welding"
-    },
-    {
-      "icon": "drawing",
-      "title": "Made to your drawing",
-      "text": "Custom parts to your specifications"
-    },
-    {
-      "icon": "shield",
-      "title": "Checked before dispatch",
-      "text": "Durability, performance & material"
-    },
-    {
-      "icon": "factory",
-      "title": "Ghaziabad works",
-      "text": "Serving customers across India"
-    }
-  ],
-  "productsEyebrow": "What we make",
-  "productsHeading": "Products we manufacture",
   "productsText": "Housings for lighting and electrical products, precision turned components, sheet metal parts, press tools and fabrication — all manufactured in-house.",
-  "faqHeading": "Frequently asked questions",
+  "processHeading": "From your drawing to dispatch",
+  "faqEyebrow": "FAQ",
+  "testimonials": [],
+  "whyText": "Built on qualified people, dependable raw material and in-house machines, so your components arrive right the first time.",
+  "testimonialsEyebrow": "What customers say",
+  "introButtons": {
+    "primary": "About the company",
+    "secondary": "Enquire Now"
+  },
   "faq": [
     {
       "q": "What products does Jugnu Roshni Pvt. Ltd. (JURO) manufacture?",
@@ -169,17 +99,87 @@
     "value": "2023",
     "place": "Ghaziabad, U.P."
   },
-  "introButtons": {
-    "primary": "About the company",
-    "secondary": "Enquire Now"
-  },
-  "whyEyebrow": "Our strengths",
-  "whyText": "Built on qualified people, dependable raw material and in-house machines, so your components arrive right the first time.",
+  "trust": [
+    {
+      "icon": "machines",
+      "title": "22 in-house machines",
+      "text": "Turning, pressing, milling & welding"
+    },
+    {
+      "icon": "drawing",
+      "title": "Made to your drawing",
+      "text": "Custom parts to your specifications"
+    },
+    {
+      "icon": "shield",
+      "title": "Checked before dispatch",
+      "text": "Durability, performance & material"
+    },
+    {
+      "icon": "factory",
+      "title": "Ghaziabad works",
+      "text": "Serving customers across India"
+    }
+  ],
+  "whyHeading": "Why manufacturers work with JURO",
   "processEyebrow": "How we work",
-  "faqEyebrow": "FAQ",
-  "faqText": "Can't find your answer? Talk to our team directly.",
-  "faqButton": "Ask a question",
-  "testimonialsEyebrow": "What customers say",
-  "testimonialsHeading": "Customer feedback",
-  "testimonials": []
+  "hero": {
+    "eyebrow": "Precision Component Manufacturer · Ghaziabad",
+    "heading": "Shaping Strength,\nDelivering Precision.",
+    "subheading": "Lighting & electrical housings, turned components, sheet metal parts, press tools and fabrication — built to your drawings and specifications.",
+    "primaryButton": "Enquire Now",
+    "secondaryButton": "View Products",
+    "slides": [
+      {
+        "image": "/uploads/designer-3-.png",
+        "alt": "Precision turned components for switchgear and automobile applications",
+        "label": "Turned Components"
+      },
+      {
+        "image": "/uploads/designer-2-.png",
+        "alt": "Formed sheet metal enclosure components",
+        "label": "Sheet Metal Components"
+      },
+      {
+        "image": "/uploads/designer-4-.png",
+        "alt": "Machined pins, studs and bushes",
+        "label": "Precision Machined Parts"
+      },
+      {
+        "image": "/uploads/designer-5-.png",
+        "alt": "Pressed sheet metal brackets with press-tool drawing",
+        "label": "Press Tools & Pressed Parts"
+      }
+    ]
+  },
+  "seoTitle": "Jugnu Roshni Pvt. Ltd. (JURO) — Turned & Sheet Metal Components Manufacturer, Ghaziabad",
+  "industries": [
+    "Lighting",
+    "Electrical accessories",
+    "Switchgear",
+    "Energy Meters",
+    "Automobile",
+    "Elevators",
+    "General Engineering"
+  ],
+  "productsHeading": "Products we manufacture",
+  "stats": [
+    {
+      "value": 2023,
+      "suffix": "",
+      "label": "Year established",
+      "plain": true
+    },
+    {
+      "value": 22,
+      "suffix": "",
+      "label": "Machines on the shop floor"
+    },
+    {
+      "value": 10,
+      "suffix": "+",
+      "label": "Industrial customers served"
+    }
+  ],
+  "seoDescription": "JURO manufactures precision turned components, sheet metal components, press tools, elevator components and industrial fabrication for switchgear, lighting, energy meter, automobile and elevator industries."
 }
